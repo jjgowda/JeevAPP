@@ -6,14 +6,28 @@ A non-custodial **JEEV token** wallet on Polygon — built with Flutter. Pay any
 
 [![Android](https://img.shields.io/badge/Android-APK_Download-brightgreen?style=for-the-badge&logo=android)](../../releases)
 [![Polygon](https://img.shields.io/badge/Blockchain-Polygon_Amoy-8247E5?style=for-the-badge&logo=polygon)](https://amoy.polygonscan.com/address/0xc14F8AdC5Af65eAdb3a0A27403C43f3357c3253e)
-[![Vercel](https://img.shields.io/badge/Backend-Vercel-black?style=for-the-badge&logo=vercel)](https://block-chain-eta.vercel.app)
+[![Vercel](https://img.shields.io/badge/Backend-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.app)
 [![Flutter](https://img.shields.io/badge/Built_with-Flutter-02569B?style=for-the-badge&logo=flutter)](https://flutter.dev)
 
 ---
 
 ## 📸 Screenshots
 
-<!-- Drop your screenshots here -->
+### 📱 iPhone
+<p align="center">
+
+  <img src="https://github.com/user-attachments/assets/88a60a5d-8ba9-488c-bcc2-69f299a240e2" width="180" />
+  <img src="https://github.com/user-attachments/assets/cd7935b1-8f9c-4ba2-8267-6a4f02e1de0b" width="180" />
+  <img src="https://github.com/user-attachments/assets/ed944acb-e983-42b8-bef9-89c3e4707b95" width="180" />
+  <img src="https://github.com/user-attachments/assets/9aaede72-f184-4dda-bebc-6a1deae941b7" width="180" />
+  <img src="https://github.com/user-attachments/assets/9dfe31c1-383e-4a64-824a-eff622054db0" width="180" />
+</p>
+
+### 🤖 Android
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ba397c0-0d3b-40d4-b607-863d6957163b" width="180" />
+  <img src="https://github.com/user-attachments/assets/5f86a068-f503-4cae-8801-91b07f22f318" width="180" />
+</p>
 
 ---
 
